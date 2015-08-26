@@ -1,2 +1,5 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+Hello,
+
+My name is Jesse Herzenach.  I am a computer science major.
+I'm interested in game development, experimental instrument development/audio synthesis techniques, and experimental modern art.
